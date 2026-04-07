@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Davi!
 
-<!--
-**davimurilomf-sketch/davimurilomf-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação  
+🚀 Focado em desenvolvimento e automações  
+📍 São Paulo - SP  
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
+- Python
+- JavaScript
+- HTML / CSS
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+🔹 Sistema de automação com Python  
+🔹 Site responsivo (HTML, CSS, JS)  
+🔹 API simples com Node.js  
+
+## 📫 Contato
+- LinkedIn: (https://www.linkedin.com/in/davi-murilo-60a353356/)
+- Email: (davimurilomf@gmail.com)
+
