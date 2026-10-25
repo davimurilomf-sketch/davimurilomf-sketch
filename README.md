@@ -9,6 +9,7 @@
 - JavaScript
 - HTML / CSS
 - SQL
+- Java
 
 ## 📌 Projetos em destaque
 🔹 Sistema de automação com Python  
